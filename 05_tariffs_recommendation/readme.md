@@ -19,4 +19,4 @@
 
 ## Используемые библиотеки
 
-`pandas` `sklearn`
+`pandas` `scikit-learn`
